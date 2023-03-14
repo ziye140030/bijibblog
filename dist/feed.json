@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "小新运维",
+    "home_page_url": "https://blog.zzppjj.top",
+    "feed_url": "https://blog.zzppjj.top/feed.json",
+    "description": "好好学习，天天向上",
+    "items": [
+        {
+            "id": "https://blog.zzppjj.top/pages/78c801/",
+            "url": "https://blog.zzppjj.top/pages/78c801/",
+            "title": "centos7搭建dns,bind配置",
+            "summary": "Logrotate入门了解及生产实践",
+            "image": "http://pic.zzppjj.top/LightPicture/2023/01/c61083c823f2ed94.png",
+            "date_modified": "2022-12-15T19:18:37.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/98cac7/",
+            "url": "https://blog.zzppjj.top/pages/98cac7/",
+            "title": "rsync用法及参数详解",
+            "summary": "Logrotate入门了解及生产实践",
+            "date_modified": "2022-12-09T20:51:06.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/c7f1bc/",
+            "url": "https://blog.zzppjj.top/pages/c7f1bc/",
+            "title": "rsync服务实现推送，拉取",
+            "summary": "Logrotate入门了解及生产实践",
+            "image": "http://s3.51cto.com/wyfs02/M02/8A/01/wKioL1gkBdaDE-dQAAAE5R3eKYo767.png",
+            "date_modified": "2022-12-09T20:51:06.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/4baba0/",
+            "url": "https://blog.zzppjj.top/pages/4baba0/",
+            "title": "sed命令在文本每行,行尾或行首添加字符",
+            "summary": "Logrotate入门了解及生产实践",
+            "image": "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9waWMwMDIuY25ibG9ncy5jb20vaW1hZ2VzLzIwMTEvMzIyODMzLzIwMTEwODE5MDk0NDQwMTMucG5n?x-oss-process=image/format,png",
+            "date_modified": "2022-12-21T20:56:09.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/c17655/",
+            "url": "https://blog.zzppjj.top/pages/c17655/",
+            "title": "linux修改网卡为eth0的两种方法",
+            "summary": "sudo权限规划",
+            "image": "https://img-blog.csdnimg.cn/20210719151032530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjUxNjkyMg==,size_16,color_FFFFFF,t_70",
+            "date_modified": "2022-12-21T14:34:00.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/5f261c/",
+            "url": "https://blog.zzppjj.top/pages/5f261c/",
+            "title": "LVM管理",
+            "summary": "LVM是在磁盘分区和文件系统之间添加的一个逻辑层，来为文件系统屏蔽下层磁盘分区布局，提供一个抽象的盘卷，在盘卷上建立文件系统。管理员利用LVM可以在磁盘不用重新分区的情况下动态调整文件系统的大小，并且利用LVM管理的文件系统可以跨越磁盘，当服务器添加了新的磁盘后，管理员不必将原有的文件移动到新的磁盘上，而是通过LVM可以直接扩展文件系统跨越磁盘",
+            "image": "http://pic.zzppjj.top/LightPicture/2023/01/5a41ef21aac7ec6c.jpg",
+            "date_modified": "2022-12-15T17:38:10.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/0bac05/",
+            "url": "https://blog.zzppjj.top/pages/0bac05/",
+            "title": "sudo权限规划",
+            "summary": "sudo权限规划",
+            "date_modified": "2022-12-15T18:49:07.000Z"
+        },
+        {
+            "id": "https://blog.zzppjj.top/pages/a8c469/",
+            "url": "https://blog.zzppjj.top/pages/a8c469/",
+            "title": "Logrotate入门了解及生产实践",
+            "summary": "Logrotate入门了解及生产实践",
+            "date_modified": "2023-01-11T15:19:54.000Z"
+        }
+    ]
+}
